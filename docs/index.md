@@ -15,6 +15,14 @@ design and operating effectiveness of controls relevant to the security, availab
 confidentiality or privacy of a particular type of information processed by one or more of an entity’s systems or one or more systems used to support a particular function within the entity. This document presents the trust services criteria
 
 ## Scope
+
+- Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibhlacinia sed. Aenean in finibus diam.
+
+    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+    * Nam vulputate tincidunt fringilla.
+    * Nullam dignissim ultrices urna non auctor.
+
+
 The TSC defines criteria to control the risks:
 - threaten its ability to achieve its objectives due to external and internal threats to the achievement of those objectives 
 - the vulnerabilities of its systems, processes, and procedures. 
@@ -29,8 +37,10 @@ Such threats and vulnerabilities arise because of factors such as the following:
 - The use of third parties (such as service providers and suppliers), who have access to the entity’s 
 - system, to provide the entity with critical raw materials or components or operate controls that are necessary, in combination with the entity’s controls, to achieve the system’s objectives 
 - Changes to the following: 
-   - System operations and related controls 
-   - Processing volume 
-   - Key management personnel of a business unit, supporting IT, or related personnel 
-   - Legal and regulatory requirements with which the entity needs to comply 
+
+   * System operations and related controls 
+   * Processing volume 
+   * Key management personnel of a business unit, supporting IT, or related personnel 
+   * Legal and regulatory requirements with which the entity needs to comply 
+ 
 - Introduction of new services, products, or technologies
