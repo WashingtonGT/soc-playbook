@@ -16,18 +16,13 @@ confidentiality or privacy of a particular type of information processed by one 
 
 ## Scope
 
-- Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibhlacinia sed. Aenean in finibus diam.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
-
 The TSC defines criteria to control the risks:
+
 - threaten its ability to achieve its objectives due to external and internal threats to the achievement of those objectives 
 - the vulnerabilities of its systems, processes, and procedures. 
 
 Such threats and vulnerabilities arise because of factors such as the following: 
+
 - The nature of the entity’s operations 
 - The environment in which it operates 
 - The types of information generated, used, or stored by the entity 
@@ -43,4 +38,8 @@ Such threats and vulnerabilities arise because of factors such as the following:
    * Key management personnel of a business unit, supporting IT, or related personnel 
    * Legal and regulatory requirements with which the entity needs to comply 
  
-- Introduction of new services, products, or technologies
+ - Introduction of new services, products, or technologies
+
+
+
+
