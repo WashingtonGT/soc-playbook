@@ -2,6 +2,13 @@ site_name: SOC2-Playbook
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+    
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+    
+theme: material
+#### list of themes ####
 ## material
 ## theme: readthedocs
