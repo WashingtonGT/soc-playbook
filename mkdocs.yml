@@ -2,5 +2,6 @@ site_name: SOC2-Playbook
 nav:
     - Home: index.md
     - About: about.md
-theme: material
+theme: readthedocs
+## material
 ## theme: readthedocs
