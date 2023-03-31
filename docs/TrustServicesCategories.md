@@ -18,7 +18,9 @@ Information and systems are available for operation and use to meet the entity�
 
 Availability refers to the accessibility of information used by the entity’s systems as well as the products or services provided to its customers. The availability objective does not, in itself, set a ==minimum acceptable performance level==; it does not address system functionality (the specific functions a system performs) or usability (the ability of users to apply system functions to the performance of specific tasks or problems). However, it does address whether systems include controls to support accessibility for operation, monitoring, and maintenance. 
 
-### Processing integrity (over the provisioning of services or the production, manufacturing, or distribution of goods)
+### Processing integrity 
+*(over the provisioning of services or the production, manufacturing, or distribution of goods)*
+
 System processing is complete, valid, accurate, timely, and authorized to meet the entity’s objectives. 
 
 Processing integrity refers to the completeness, validity, accuracy, timeliness, and authorization of system processing. Processing integrity addresses whether systems achieve the aim or purpose for which they exist and whether they perform their intended functions in an unimpaired manner, free from error, delay, omission, and unauthorized or inadvertent manipulation. Because of the number of systems used by an entity, processing integrity is usually only addressed at the system or functional level of an entity. In a SOC for Supply Chain examination, for example, processing integrity refers to whether processing is complete, valid, accurate, timely, and authorized to produce, manufacture, or distribute goods that meet the products’ specifications. 
