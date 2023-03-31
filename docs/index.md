@@ -23,22 +23,22 @@ The TSC defines criteria to control the risks:
 
 Such threats and vulnerabilities arise because of factors such as the following: 
 
-- The nature of the entity’s operations 
-- The environment in which it operates 
-- The types of information generated, used, or stored by the entity 
-- The types of commitments made to customers and other third parties 
-- Responsibilities entailed in operating and maintaining the entity’s systems and processes 
-- The technologies, connection types, and delivery channels used by the entity 
-- The use of third parties (such as service providers and suppliers), who have access to the entity’s 
-- system, to provide the entity with critical raw materials or components or operate controls that are necessary, in combination with the entity’s controls, to achieve the system’s objectives 
-- Changes to the following: 
+1. The nature of the entity’s operations 
+2. The environment in which it operates 
+3. The types of information generated, used, or stored by the entity 
+4. The types of commitments made to customers and other third parties 
+5. Responsibilities entailed in operating and maintaining the entity’s systems and processes 
+6. The technologies, connection types, and delivery channels used by the entity 
+7. The use of third parties (such as service providers and suppliers), who have access to the entity’s 
+8. system, to provide the entity with critical raw materials or components or operate controls that are necessary, in combination with the entity’s controls, to achieve the system’s objectives 
+9. Changes to the following: 
 
-   * System operations and related controls 
-   * Processing volume 
-   * Key management personnel of a business unit, supporting IT, or related personnel 
-   * Legal and regulatory requirements with which the entity needs to comply 
+   1. System operations and related controls 
+   2. Processing volume 
+   3. Key management personnel of a business unit, supporting IT, or related personnel 
+   4. Legal and regulatory requirements with which the entity needs to comply 
  
- - Introduction of new services, products, or technologies
+10. Introduction of new services, products, or technologies
 
 
 
