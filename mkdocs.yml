@@ -1,6 +1,7 @@
 site_name: SOC2-Playbook
 nav:
     - Home: index.md
+    - Trust Service Category: TrustServicesCategories.md
     - About: about.md
     
 markdown_extensions:
