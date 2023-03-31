@@ -36,11 +36,11 @@ Personal information is collected, used, retained, disclosed, and disposed of to
 
 The privacy criteria are organized as follows: 
 
-i. Notice and communication of objectives. The entity provides notice to data subjects about its objectives related to privacy. 
-ii. Choice and consent. The entity communicates choices available regarding the collection, use, retention, disclosure, and disposal of personal information to data subjects. 
-iii. Collection. The entity collects personal information to support the achievement of its objectives related to privacy. 
-iv. Use, retention, and disposal. The entity limits the use, retention, and disposal of personal information to support the achievement of its objectives related to privacy. 
-v. Access. The entity provides data subjects with access to their personal information for review and correction (including updates) to support the achievement of its objectives related to privacy. 
-vi. Disclosure and notification. The entity discloses personal information, with the consent of the data subjects, to meet its objectives related to privacy. Notification of breaches and incidents is provided to affected data subjects, regulators, and others to support the achievement of its objectives related to privacy. 
-vii. Quality. The entity collects and maintains accurate, up-to-date, complete, and relevant personal information to support the achievement of its objectives related to privacy. 
-viii. Monitoring and enforcement. The entity monitors compliance to meet its objectives related to privacy, including procedures to address privacy-related inquiries, complaints, and disputes. 
+1. Notice and communication of objectives. The entity provides notice to data subjects about its objectives related to privacy. 
+2. Choice and consent. The entity communicates choices available regarding the collection, use, retention, disclosure, and disposal of personal information to data subjects. 
+3. Collection. The entity collects personal information to support the achievement of its objectives related to privacy. 
+4. Use, retention, and disposal. The entity limits the use, retention, and disposal of personal information to support the achievement of its objectives related to privacy. 
+5. Access. The entity provides data subjects with access to their personal information for review and correction (including updates) to support the achievement of its objectives related to privacy. 
+6. Disclosure and notification. The entity discloses personal information, with the consent of the data subjects, to meet its objectives related to privacy. Notification of breaches and incidents is provided to affected data subjects, regulators, and others to support the achievement of its objectives related to privacy. 
+7. Quality. The entity collects and maintains accurate, up-to-date, complete, and relevant personal information to support the achievement of its objectives related to privacy. 
+8. Monitoring and enforcement. The entity monitors compliance to meet its objectives related to privacy, including procedures to address privacy-related inquiries, complaints, and disputes. 
