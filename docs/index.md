@@ -29,8 +29,8 @@ Such threats and vulnerabilities arise because of factors such as the following:
 - The use of third parties (such as service providers and suppliers), who have access to the entity’s 
 - system, to provide the entity with critical raw materials or components or operate controls that are necessary, in combination with the entity’s controls, to achieve the system’s objectives 
 - Changes to the following: 
- - System operations and related controls 
- - Processing volume 
- - Key management personnel of a business unit, supporting IT, or related personnel 
- - Legal and regulatory requirements with which the entity needs to comply 
+   - System operations and related controls 
+   - Processing volume 
+   - Key management personnel of a business unit, supporting IT, or related personnel 
+   - Legal and regulatory requirements with which the entity needs to comply 
 - Introduction of new services, products, or technologies
