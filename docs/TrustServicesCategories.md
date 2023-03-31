@@ -8,15 +8,15 @@ Information and systems are protected against unauthorized access, unauthorized 
 confidentiality, and privacy of information or systems and affect the entity’s ability to achieve its objectives. 
 
 Security refers to the protection of 
+
 1. information during its collection or creation, use, processing, transmission, and storage and 
 2. systems that use electronic information to process, transmit or transfer, and store information to enable the entity to meet its objectives. Controls over security prevent or detect the breakdown and circumvention of segregation of duties, system failure, incorrect processing, theft or other unauthorized removal of information or system resources, misuse of software, and improper access to or use of, alteration, destruction, or disclosure of information. 
 
 ### Availability. 
 
 Information and systems are available for operation and use to meet the entity’s objectives. 
-Availability refers to the accessibility of information used by the entity’s systems as well as the 
-products or services provided to its customers. The availability objective does not, in itself, set a 
-minimum acceptable performance level; it does not address system functionality (the specific 
+
+Availability refers to the accessibility of information used by the entity’s systems as well as the products or services provided to its customers. The availability objective does not, in itself, set a ==minimum acceptable performance level==; it does not address system functionality (the specific 
 functions a system performs) or usability (the ability of users to apply system functions to the 
 performance of specific tasks or problems). However, it does address whether systems include 
 controls to support accessibility for operation, monitoring, and maintenance. 
