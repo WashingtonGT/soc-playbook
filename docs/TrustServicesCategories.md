@@ -46,3 +46,17 @@ The privacy criteria are organized as follows:
 6. Disclosure and notification. The entity discloses personal information, with the consent of the data subjects, to meet its objectives related to privacy. Notification of breaches and incidents is provided to affected data subjects, regulators, and others to support the achievement of its objectives related to privacy. 
 7. Quality. The entity collects and maintains accurate, up-to-date, complete, and relevant personal information to support the achievement of its objectives related to privacy. 
 8. Monitoring and enforcement. The entity monitors compliance to meet its objectives related to privacy, including procedures to address privacy-related inquiries, complaints, and disputes. 
+
+
+## Criteria mapping to address trust service categories
+
+
+
+| Trust Services Category | Common Criteria | Additional Category-Specific Criteria |
+|---------------------|---------------------|---------------------------------------|
+| Security            |        [X]          |     N/A                        |
+| Availability        |        [X]          |     [X] (A series)             |
+| Processing Integrity|        [X]          |     [X] (PI series)            |  
+| Confidentiality     |        [X]          |     [X] (C series)             |
+| Privacy             |        [X]          |     [X] (P series)             |
+
