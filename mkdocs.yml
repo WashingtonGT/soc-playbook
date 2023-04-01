@@ -1,11 +1,19 @@
-site_name: SOC2-Playbook
+site_name: SOC Playbook
 nav:
     - Home: index.md
     - Trust Service Category: TrustServicesCategories.md
     - Trust Service Criteria:
         - Control Environment: 
             - CC1.1: tsc/cc1-1.md
+            - CC1.2: tsc/cc1-2.md
+    - SOC 1 Report:
+    - SOC 2 type 1 Report:
+    - SOC 2 type 2 Report:
+    - SOC 3 Report:
     - About: about.md
+    
+copyright: Copyright &copy; 2023 Washington GT, Maintained by Ben Gao.
+    
     
 markdown_extensions:
   - admonition
