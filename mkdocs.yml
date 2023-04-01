@@ -2,7 +2,7 @@ site_name: SOC2-Playbook
 nav:
     - Home: index.md
     - Trust Service Category: TrustServicesCategories.md
-        - Control Environment:
+        - Control Environment: TrustServicesCategories.md
             - CC1.1: tsc/cc1-1.md
     - About: about.md
     
