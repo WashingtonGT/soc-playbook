@@ -3,7 +3,7 @@ nav:
     - Home: index.md
     - Trust Service Category: TrustServicesCategories.md
         - Control Environment
-            - CC1.1: ./tsc/cc1-1.md
+            - CC1.1: tsc/cc1-1.md
     - About: about.md
     
 markdown_extensions:
