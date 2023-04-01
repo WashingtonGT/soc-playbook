@@ -34,7 +34,6 @@ extra:
   analytics:
     provider: google
     property: G-FVH8RBS1KG
-    extra:
     feedback:
       title: Was this page helpful?
       ratings:
