@@ -36,6 +36,9 @@ markdown_extensions:
   - pymdownx.tilde
     
 theme: material
+  features:
+    - content.tabs.link
+
 #### list of themes ####
 ## material
 ## theme: readthedocs
