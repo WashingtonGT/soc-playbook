@@ -8,6 +8,10 @@ nav:
             - CC1.2: tsc/cc1-2.md
             - CC1.3: tsc/cc1-3.md
             - CC1.4: tsc/cc1-4.md
+         - Information and Communication:
+            - CC2.1: tsc/cc2-1.md
+            - CC2.2: tsc/cc2-2.md
+            - CC2.3: tsc/cc2-3.md
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
     - SOC 2 type 2 Report: about.md
