@@ -12,6 +12,12 @@ nav:
             - CC2.1: tsc/cc2-1.md
             - CC2.2: tsc/cc2-2.md
             - CC2.3: tsc/cc2-3.md
+        - Risk Assessment:
+            - CC3.1: tsc/cc3-1.md
+            - CC3.2: tsc/cc3-2.md
+            - CC3.3: tsc/cc3-3.md
+            - CC3.4: tsc/cc3-4.md
+            
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
     - SOC 2 type 2 Report: about.md
