@@ -35,9 +35,10 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
     
-theme: material
-  features:
-    - content.tabs.link
+theme: 
+    name: material
+    features:
+        - content.tabs.link
 
 #### list of themes ####
 ## material
