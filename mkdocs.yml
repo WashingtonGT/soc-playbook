@@ -17,6 +17,14 @@ nav:
             - CC3.2: tsc/cc3-2.md
             - CC3.3: tsc/cc3-3.md
             - CC3.4: tsc/cc3-4.md
+        - Monitoring Activities:
+            - CC4.1: tsc/cc4-1.md
+            - CC4.2: tsc/cc4-2.md
+        - Control Activities:
+            - CC5.1: tsc/cc5-1.md
+            - CC5.2: tsc/cc5-2.md
+            - CC5.3: tsc/cc5-3.md
+            
             
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
