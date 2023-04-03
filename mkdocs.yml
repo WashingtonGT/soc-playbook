@@ -24,6 +24,15 @@ nav:
             - CC5.1: tsc/cc5-1.md
             - CC5.2: tsc/cc5-2.md
             - CC5.3: tsc/cc5-3.md
+        - Logical and Physical Access Controls:
+            - CC6.1: tsc/cc6-1.md
+            - CC6.2: tsc/cc6-2.md
+            - CC6.3: tsc/cc6-3.md
+            - CC6.4: tsc/cc6-4.md
+            - CC6.5: tsc/cc6-5.md
+            - CC6.6: tsc/cc6-6.md
+            - CC6.7: tsc/cc6-7.md
+            - CC6.8: tsc/cc6-8.md
             
             
     - SOC 1 Report: about.md
