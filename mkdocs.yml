@@ -33,6 +33,12 @@ nav:
             - CC6.6: tsc/cc6-6.md
             - CC6.7: tsc/cc6-7.md
             - CC6.8: tsc/cc6-8.md
+        - System Operations:
+            - CC7.1: tsc/cc7-1.md
+            - CC7.2: tsc/cc7-2.md
+            - CC7.3: tsc/cc7-3.md
+            - CC7.4: tsc/cc7-4.md
+            - CC7.5: tsc/cc7-5.md
             
             
     - SOC 1 Report: about.md
