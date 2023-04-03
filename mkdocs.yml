@@ -39,6 +39,7 @@ nav:
             - CC7.3: tsc/cc7-3.md
             - CC7.4: tsc/cc7-4.md
             - CC7.5: tsc/cc7-5.md
+        - Change Management CC8.1: tsc/cc8-1.md 
             
             
     - SOC 1 Report: about.md
