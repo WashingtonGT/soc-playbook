@@ -46,8 +46,7 @@ nav:
     - Trust Service Criteria - Availability:
         - A1.1: atsc/a1-1.md
         - A1.2: atsc/a1-2.md
-        - A1.3: atsc/a1-3.md
-        
+        - A1.3: atsc/a1-3.md    
     - Trust Service Criteria - Confidentiality:
         - C1.1: ctsc/c1-1.md
         - C1.2: ctsc/c1-2.md
