@@ -47,6 +47,16 @@ nav:
         - A1.1: atsc/a1-1.md
         - A1.2: atsc/a1-2.md
         - A1.3: atsc/a1-3.md
+        
+    - Trust Service Criteria - Confidentiality:
+        - C1.1: ctsc/c1-1.md
+        - C1.2: ctsc/c1-2.md
+    -  Trust Service Criteria - Processing Integrity:
+        - PI1.1: pitsc/pi1-1.md
+        - PI1.2: pitsc/pi1-2.md
+        - PI1.3: pitsc/pi1-3.md
+        - PI1.4: pitsc/pi1-4.md
+        - PI1.5: pitsc/pi1-5.md
             
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
