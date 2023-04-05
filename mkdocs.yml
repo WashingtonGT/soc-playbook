@@ -2,7 +2,7 @@ site_name: SOC Playbook
 nav:
     - Home: index.md
     - Trust Service Category: TrustServicesCategories.md
-    - Trust Service Criteria:
+    - Common Trust Service Criteria:
         - Control Environment: 
             - CC1.1: tsc/cc1-1.md
             - CC1.2: tsc/cc1-2.md
@@ -39,8 +39,14 @@ nav:
             - CC7.3: tsc/cc7-3.md
             - CC7.4: tsc/cc7-4.md
             - CC7.5: tsc/cc7-5.md
-        - Change Management CC8.1: tsc/cc8-1.md 
-            
+        - ChangRisk Mitigation Management CC8.1: tsc/cc8-1.md 
+        - Risk Mitigation:
+            - CC9.1: tsc/cc9-1.md
+            - CC9.2: tsc/cc9-2.md
+    - Trust Service Criteria - Availability:
+        - A1.1: atsc/a1-1.md
+        - A1.2: atsc/a1-2.md
+        - A1.3: atsc/a1-3.md
             
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
