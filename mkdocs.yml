@@ -113,7 +113,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-    
+  
 theme: 
     name: material
     features:
