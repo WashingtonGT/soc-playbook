@@ -18,52 +18,31 @@
 * **criteria**. The benchmarks used to measure or evaluate the subject matter.  
 * **cybersecurity objectives**. Objectives that address the cybersecurity risks that could affect the achievement of the entity’s overall business objectives (including compliance, reporting, and operational objectives). 
 * **data controller**. An organization that (alone or jointly with others) determines the purposes for and the means by which personal data is processed. 
-data processor. An organization that processes personal data at the direction of a data controller. In 
-many cases, a service organization may process personal data for its business-to-business (B2B) 
-customers (user entities), which in turn may function as data controllers. In other cases, a service 
-organization may function as a data controller, depending on the facts and circumstances. 
-data subject. The individual about whom personal information is collected. 
-design. As used in the COSO definition of internal control, the internal control system design is intended to provide reasonable assurance of the achievement of an entity’s objectives. 
-disclosure. The provision of access to or the release, transfer, or divulging in any other manner of 
-information outside the entity holding the information. Disclosure is often used interchangeably 
-with the terms sharing and onward transfer. 
-disposal. A phase of the data life cycle that pertains to how an entity removes or destroys data or 
-information. 
-effectiveness (of controls). Encompasses both the suitability of the design of controls and the operating effectiveness of controls to provide reasonable assurance that the entity’s principal system 
-objectives are achieved. 
-endpoint devices. Connected hardware or virtual devices that communicate across a network, such 
-as mobile devices, laptops, desktops, and sensors. 
-Page 70 
-entity. A legal entity or management operating model of any size established for a particular purpose. A legal entity may, for example, be a business enterprise, a not-for-profit organization, a 
-government body, or an academic institution. The management operating model may follow 
-product or service lines, divisions, or operating units, with geographic markets providing for further subdivisions or aggregations of performance. 
-entity-wide. Activities that apply across the entity — most commonly in relation to entity-wide controls. 
-environmental. Of or having to do with the matters that can damage the physical elements of information systems (for example, fire, flood, wind, earthquake, power surges, or power outages). An 
-entity implements controls and other activities to detect, prevent, and manage the risk of casualty 
-damage to the physical elements of the information system from environmental elements. 
-external users. Users, other than entity personnel, who are authorized by entity management, customers, or other authorized persons to interact with the entity’s information system. 
-functional requirements. Requirements that must be met for the system to correctly fulfill its designed purpose.
-information and systems. Refers to information in electronic form (electronic information) during 
-its use, processing, transmission, and storage and systems that use, process, transmit or transfer, 
-and store information or that produce, manufacture, or distribute products. 
-information assets. Data and the associated software and infrastructure used to process, transmit, 
-and store information or to produce, manufacture, or distribute products. 
-infrastructure. The collection of physical or virtual resources that supports an overall IT environment, including the server, storage, network elements, and endpoint devices. 
-internal control. A process, effected by an entity’s board of directors, management, and other personnel, designed to provide reasonable assurance regarding the achievement of objectives relating to operations, reporting, and compliance. 
-nonfunctional requirements. System attributes such as security, reliability, performance, maintainability, scalability, and usability that define how well a system will operate.
-outsourced service providers. A service provider that performs business processes, operations, or 
-controls on behalf of the entity when such business processes, operations, or controls are necessary to achieve the entity’s objectives. 
-personal information. Information that is about, or can be related to, an identifiable individual. 
-policies. Management or board member statements of what should be done to effect control. Such 
-statements may be documented, explicitly stated in communications, or implied through actions 
-and decisions. Policies serve as the basis for procedures. 
-Page 71 
-practitioner. As used in this document, a CPA who performs an examination of controls within an 
-entity’s system relevant to security, availability, processing integrity, confidentiality, or privacy. 
-principal system objectives. System objectives that relate to the trust services category or categories addressed by the examination and that could reasonably be expected to influence the relevant 
+* **data processor**. An organization that processes personal data at the direction of a data controller. In many cases, a service organization may process personal data for its business-to-business (B2B) customers (user entities), which in turn may function as data controllers. In other cases, a service organization may function as a data controller, depending on the facts and circumstances. 
+* **data subject**. The individual about whom personal information is collected. 
+* **design**. As used in the COSO definition of internal control, the internal control system design is intended to provide reasonable assurance of the achievement of an entity’s objectives. 
+* **disclosure**. The provision of access to or the release, transfer, or divulging in any other manner of information outside the entity holding the information. Disclosure is often used interchangeably with the terms sharing and onward transfer. 
+* **disposal**. A phase of the data life cycle that pertains to how an entity removes or destroys data or information. 
+* **effectiveness (of controls)**. Encompasses both the suitability of the design of controls and the operating effectiveness of controls to provide reasonable assurance that the entity’s principal system objectives are achieved. 
+* **endpoint devices**. Connected hardware or virtual devices that communicate across a network, such as mobile devices, laptops, desktops, and sensors. 
+* **entity**. A legal entity or management operating model of any size established for a particular purpose. A legal entity may, for example, be a business enterprise, a not-for-profit organization, a government body, or an academic institution. The management operating model may follow product or service lines, divisions, or operating units, with geographic markets providing for further subdivisions or aggregations of performance. 
+* **entity-wide**. Activities that apply across the entity — most commonly in relation to entity-wide controls. 
+* **environmental**. Of or having to do with the matters that can damage the physical elements of information systems (for example, fire, flood, wind, earthquake, power surges, or power outages). An entity implements controls and other activities to detect, prevent, and manage the risk of casualty damage to the physical elements of the information system from environmental elements. 
+* **external users**. Users, other than entity personnel, who are authorized by entity management, customers, or other authorized persons to interact with the entity’s information system. 
+* **functional requirements**. Requirements that must be met for the system to correctly fulfill its designed purpose.
+* **information and systems**. Refers to information in electronic form (electronic information) during its use, processing, transmission, and storage and systems that use, process, transmit or transfer, and store information or that produce, manufacture, or distribute products. 
+* **information assets**. Data and the associated software and infrastructure used to process, transmit, and store information or to produce, manufacture, or distribute products. 
+* **infrastructure**. The collection of physical or virtual resources that supports an overall IT environment, including the server, storage, network elements, and endpoint devices. 
+* **internal control**. A process, effected by an entity’s board of directors, management, and other personnel, designed to provide reasonable assurance regarding the achievement of objectives relating to operations, reporting, and compliance. 
+* **nonfunctional requirements**. System attributes such as security, reliability, performance, maintainability, scalability, and usability that define how well a system will operate.
+* **outsourced service providers**. A service provider that performs business processes, operations, or controls on behalf of the entity when such business processes, operations, or controls are necessary to achieve the entity’s objectives. 
+* **personal information**. Information that is about, or can be related to, an identifiable individual. 
+* **policies**. Management or board member statements of what should be done to effect control. Such statements may be documented, explicitly stated in communications, or implied through actions and decisions. Policies serve as the basis for procedures. 
+* **practitioner**. As used in this document, a CPA who performs an examination of controls within an entity’s system relevant to security, availability, processing integrity, confidentiality, or privacy. 
+* **principal system objectives**. System objectives that relate to the trust services category or categories addressed by the examination and that could reasonably be expected to influence the relevant 
 decisions of intended users. (See system objectives.) 
 privacy commitments. Declarations made by management regarding the performance of a system 
-processing personal information. Such commitments can be communicated in written agreements, standardized contracts, service-level agreements, or published statements (for example, a 
+processing personal information. Such commitments can be communicated in written agreements, standardized contracts, service-level agreements, or published statements (for example, a 
 privacy practices statement). In addition, privacy commitments may be made on many different 
 aspects of the service being provided. 
 privacy notice. A written communication by entities that collect personal information, to the individuals about whom personal information is collected, about the entity’s (a) policies regarding 
