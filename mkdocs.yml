@@ -65,7 +65,7 @@ nav:
         - P3.0 Collection:
             - P3.1: ptsc/p3-1.md
             - P3.2: ptsc/p3-2.md
-        - P4.0 Use, Retention, and Disposal:
+        - P4.0 Use Retention and Disposal:
             - P4.1: ptsc/p4-1.md
             - P4.2: ptsc/p4-2.md
             - P4.3: ptsc/p4-3.md
@@ -73,18 +73,18 @@ nav:
             - P5.1: ptsc/p5-1.md
             - P5.2: ptsc/p5-2.md
         - P6.0 Disclosure and Notification:
-            - P6.1: ptsc/6-1.md
-            - P6.2: ptsc/6-2.md
-            - P6.3: ptsc/6-3.md
-            - P6.4: ptsc/6-4.md
-            - P6.5: ptsc/6-5.md
-            - P6.6: ptsc/6-6.md
-            - P6.7: ptsc/6-7.md
+            - P6.1: ptsc/p6-1.md
+            - P6.2: ptsc/p6-2.md
+            - P6.3: ptsc/p6-3.md
+            - P6.4: ptsc/p6-4.md
+            - P6.5: ptsc/p6-5.md
+            - P6.6: ptsc/p6-6.md
+            - P6.7: ptsc/p6-7.md
         - P7.0 Quality:
-            - P7.1: ptsc/7-1.md
+            - P7.1: ptsc/p7-1.md
         - P8.0  Monitoring and Enforcement:
-            - P8.1: ptsc/8-1.md
-        - TSC Glossary: tsc-glossary.md                
+            - P8.1: ptsc/p8-1.md
+    - TSC Glossary: tsc-glossary.md                
     - SOC 1 Report: about.md
     - SOC 2 type 1 Report: about.md
     - SOC 2 type 2 Report: about.md
@@ -113,7 +113,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  
+    
 theme: 
     name: material
     features:
