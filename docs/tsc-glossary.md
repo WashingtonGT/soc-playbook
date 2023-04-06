@@ -1,55 +1,23 @@
 
-access to personal information. The ability to view personal information held by an organization. 
-This ability may be complemented by an ability to update or correct the information. Access defines the intersection of identity and data, that is, who can do what to which data. Access is one 
-of the fair information practice principles. Individuals need to be able to find out what personal 
-information an entity has on file about them and how the information is being used. Individuals 
-need to be able to correct erroneous information in such records. 
-Page 68 
-architecture. The design of the structure of a system, including logical components, and the logical 
-interrelationships of computers, operating systems, networks, or other elements, whether internally or externally hosted. 
-authentication. The process of verifying the identity or other attributes claimed by or assumed of an 
-entity (user, process, or device) or to verify the source and integrity of data. 
-authorization. The process of granting access privileges to a user, program, or process by a person 
-that has the authority to grant such access. 
-board or board of directors. Individuals with responsibility for overseeing the strategic direction of 
-the entity and the obligations related to the accountability of the entity. Depending on the nature 
-of the entity, such responsibilities may be held by a board of directors or supervisory board for a 
-corporation, a board of trustees for a not-for-profit entity, a board of governors or commissioners 
-for a government entity, general partners for a partnership, or an owner for a small business. 
-business partner. An individual or business (and its employees), other than a vendor, that has some 
-degree of involvement with the entity's business dealings or agrees to cooperate, to any degree, 
-with the entity (for example, a computer manufacturer who works with another company that 
-supplies it with parts). 
-collection. The process of obtaining personal information from the individual directly (for example, 
-through the individual’s submission of an internet form or a registration form) or from another 
-party, such as a business partner. 
-commitments. Declarations made by management to customers regarding the performance of one or 
-more systems that provide services or products. Commitments can be communicated in written 
-individualized agreements, standardized contracts, service-level agreements, or published statements (for example, a security practices statement). A commitment may relate to one or more 
-trust services categories. Commitments may be made on many different aspects of the service 
-being provided or the product, production, manufacturing, or distribution specifications. 
-component. One of five elements of internal control, including the control environment, risk assessment, control activities, information and communication, and monitoring activities. 
-compromise. Refers to a loss of confidentiality, integrity, or availability of information, including 
-any resultant impairment of (1) processing integrity or availability of systems or (2) the integrity 
-or availability of system inputs or outputs. 
-controls. Policies and procedures that are part of the entity’s system of internal control. The objective of an entity’s system of internal control is to provide reasonable assurance that principal system objectives are achieved. 
-control activity. An action established through policies and procedures that help ensure that management’s directives to mitigate risks to the achievement of objectives are carried out. 
-consent. This privacy requirement is one of the fair information practice objectives. Individuals 
-must be able to prevent the collection of their personal data, unless legally required. If an 
-Page 69 
-individual has a choice about the use or disclosure of his or her information, consent is the individual’s way of giving permission for the use or disclosure. Consent may be affirmative (for example, opting in) or implied (for example, not opting out). There are two types of consent: 
-• explicit consent. A requirement that an individual "signifies" agreement with a data controller by some active communication between the parties. 
-• implied consent. When consent may reasonably be inferred from the action or inaction 
-of the individual. 
-COSO. The Committee of Sponsoring Organizations of the Treadway Commission. COSO is a joint 
-initiative of five private-sector organizations and is dedicated to providing thought leadership 
-through the development of frameworks and guidance on enterprise risk management, internal 
-control, and fraud deterrence. (See www.coso.org.) 
-criteria. The benchmarks used to measure or evaluate the subject matter. 
-cybersecurity objectives. Objectives that address the cybersecurity risks that could affect the 
-achievement of the entity’s overall business objectives (including compliance, reporting, and operational objectives). 
-data controller. An organization that (alone or jointly with others) determines the purposes for and 
-the means by which personal data is processed. 
+* **access to personal information**. The ability to view personal information held by an organization. This ability may be complemented by an ability to update or correct the information. Access defines the intersection of identity and data, that is, who can do what to which data. Access is one of the fair information practice principles. Individuals need to be able to find out what personal information an entity has on file about them and how the information is being used. Individuals need to be able to correct erroneous information in such records. 
+* **architecture**. The design of the structure of a system, including logical components, and the logical interrelationships of computers, operating systems, networks, or other elements, whether internally or externally hosted. 
+* **authentication**. The process of verifying the identity or other attributes claimed by or assumed of an entity (user, process, or device) or to verify the source and integrity of data. 
+* **authorization**. The process of granting access privileges to a user, program, or process by a person that has the authority to grant such access. 
+* **board or board of directors**. Individuals with responsibility for overseeing the strategic direction of the entity and the obligations related to the accountability of the entity. Depending on the nature of the entity, such responsibilities may be held by a board of directors or supervisory board for a corporation, a board of trustees for a not-for-profit entity, a board of governors or commissioners for a government entity, general partners for a partnership, or an owner for a small business. 
+* **business partner**. An individual or business (and its employees), other than a vendor, that has some degree of involvement with the entity's business dealings or agrees to cooperate, to any degree, with the entity (for example, a computer manufacturer who works with another company that supplies it with parts). 
+* **collection**. The process of obtaining personal information from the individual directly (for example, through the individual’s submission of an internet form or a registration form) or from another party, such as a business partner. 
+* **commitments**. Declarations made by management to customers regarding the performance of one or more systems that provide services or products. Commitments can be communicated in written individualized agreements, standardized contracts, service-level agreements, or published statements (for example, a security practices statement). A commitment may relate to one or more trust services categories. Commitments may be made on many different aspects of the service being provided or the product, production, manufacturing, or distribution specifications. 
+* **component**. One of five elements of internal control, including the control environment, risk assessment, control activities, information and communication, and monitoring activities. 
+* **compromise**. Refers to a loss of confidentiality, integrity, or availability of information, including any resultant impairment of (1) processing integrity or availability of systems or (2) the integrity or availability of system inputs or outputs. 
+* **controls**. Policies and procedures that are part of the entity’s system of internal control. The objective of an entity’s system of internal control is to provide reasonable assurance that principal system objectives are achieved. 
+* **control activity**. An action established through policies and procedures that help ensure that management’s directives to mitigate risks to the achievement of objectives are carried out. 
+* **consent**. This privacy requirement is one of the fair information practice objectives. Individuals must be able to prevent the collection of their personal data, unless legally required. If an individual has a choice about the use or disclosure of his or her information, consent is the individual’s way of giving permission for the use or disclosure. Consent may be affirmative (for example, opting in) or implied (for example, not opting out). There are two types of consent: 
+    - **explicit consent**. A requirement that an individual "signifies" agreement with a data controller by some active communication between the parties. 
+    - **implied consent**. When consent may reasonably be inferred from the action or inaction of the individual. 
+* **COSO**. The Committee of Sponsoring Organizations of the Treadway Commission. COSO is a joint initiative of five private-sector organizations and is dedicated to providing thought leadership through the development of frameworks and guidance on enterprise risk management, internal control, and fraud deterrence. (See www.coso.org.) 
+* **criteria**. The benchmarks used to measure or evaluate the subject matter.  
+* **cybersecurity objectives**. Objectives that address the cybersecurity risks that could affect the achievement of the entity’s overall business objectives (including compliance, reporting, and operational objectives). 
+* **data controller**. An organization that (alone or jointly with others) determines the purposes for and the means by which personal data is processed. 
 data processor. An organization that processes personal data at the direction of a data controller. In 
 many cases, a service organization may process personal data for its business-to-business (B2B) 
 customers (user entities), which in turn may function as data controllers. In other cases, a service 
