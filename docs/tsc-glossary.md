@@ -39,112 +39,52 @@
 * **personal information**. Information that is about, or can be related to, an identifiable individual. 
 * **policies**. Management or board member statements of what should be done to effect control. Such statements may be documented, explicitly stated in communications, or implied through actions and decisions. Policies serve as the basis for procedures. 
 * **practitioner**. As used in this document, a CPA who performs an examination of controls within an entity’s system relevant to security, availability, processing integrity, confidentiality, or privacy. 
-* **principal system objectives**. System objectives that relate to the trust services category or categories addressed by the examination and that could reasonably be expected to influence the relevant 
-decisions of intended users. (See system objectives.) 
-privacy commitments. Declarations made by management regarding the performance of a system 
-processing personal information. Such commitments can be communicated in written agreements, standardized contracts, service-level agreements, or published statements (for example, a 
-privacy practices statement). In addition, privacy commitments may be made on many different 
-aspects of the service being provided. 
-privacy notice. A written communication by entities that collect personal information, to the individuals about whom personal information is collected, about the entity’s (a) policies regarding 
-the nature of the information that they will collect and how that information will be used, retained, disclosed, and disposed of or anonymized and (b) commitment to adhere to those policies. A privacy notice also includes information about such matters as the purpose of collecting 
-the information, the choices that individuals have related to their personal information, the security of such information, and how individuals can contact the entity with inquiries, complaints, 
-and disputes related to their personal information. When a user entity collects personal information from individuals, it typically provides a privacy notice to those individuals. 
-process or control framework. A framework that contains a set of processes or controls, established by another party, that organizations are expected to implement in support of establishing 
-an effective system of internal control. These frameworks are usually developed by an industry 
-group, regulator, governmental entity, standard-setting body, or other organization (collectively 
-referred to as sponsoring organizations) to obtain information from organizations with which 
-they do business about their processes and controls. The most common types of process or control frameworks relate to security and privacy. 
-products. Tangible or intangible goods manufactured or produced by an entity. Throughout this 
-document, the term is used interchangeably with goods.
-report users. Intended users of the practitioner’s report in accordance with AT-C section 205, Assertion-Based Examination Engagements.
- fn 1 There may be a broad range of report users for a 
-general-purpose report but only a limited number of specified parties for a report that is restricted 
-in accordance with paragraph .64 of AT-C section 205.
-fn 1 All AT-C sections can be found in AICPA Professional Standards. 
-Page 72 
-residual risk. The risk to the achievement of objectives that remains after management’s response 
-has been designed and implemented. 
-retention. A phase of the data life cycle that pertains to how long an entity stores information for 
-future use or reference. 
-risk. The possibility that an event will occur and adversely affect the achievement of objectives. 
-risk response. The decision to accept, avoid, reduce, or share a risk. 
-security event. An occurrence, arising from actual or attempted unauthorized access or use by internal or external parties, that impairs or could impair the availability, integrity, or confidentiality of 
-information or systems: result in unauthorized disclosure or theft of information or other assets; 
-or cause damage to systems. 
-security incident. A security event that requires action on the part of an entity to protect information 
-assets and resources. 
-senior management. The CEO or equivalent organizational leader and senior management team. 
-service provider. A supplier (such as a service organization) engaged to provide services to the entity. Service providers include outsourced service providers as well as suppliers that provide services not associated with business functions, such as janitorial, legal, and audit services. 
-SOC 2 examination. An examination engagement to report on whether (a) the description of the 
-service organization’s system is in accordance with the description criteria, (b) the controls were 
-suitably designed to provide reasonable assurance that the service organization’s service commitments and system requirements were achieved based on the applicable trust services criteria, and 
-(c) in a type 2 report, the controls operated effectively to provide reasonable assurance that the 
-service organization’s service commitments and system requirements were achieved based on 
-the applicable trust services criteria. The SOC 2 examination is performed in accordance with the 
-attestation standards and AICPA Guide SOC 2® Reporting on an Examination of Controls at a 
-Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or 
-Privacy. 
-SOC 3® engagement. An examination engagement to report on the suitability of design and the operating effectiveness of an entity’s controls over a system relevant to one or more of the trust services categories. 
-SOC for Cybersecurity examination. An examination engagement to report on whether (a) management’s description of the entity’s cybersecurity risk management program is presented in accordance with the description criteria and (b) the controls within that program were effective to 
-achieve the entity’s cybersecurity objectives based on the control criteria. A SOC for Cybersecurity examination is performed in accordance with the attestation standards and AICPA Guide Reporting on an Entity's Cybersecurity Risk Management Program and Controls. 
-SOC for Supply Chain examination. An examination engagement to report on whether (a) the description of the entity’s system is presented in accordance with the description criteria and (b) the 
-Page 73 
-controls stated in the description, which are necessary to provide reasonable assurance that the 
-entity achieved its principal system objectives, were effective based on the applicable trust services criteria. Such an examination is based on guidance contained in AICPA Guide Reporting 
-on an Examination of Controls Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy in a Production, Manufacturing, or Distribution System (SOC for Supply 
-Chain guide). 
-software. A collection of instructions that tell a computer how to operate. Software may be both 
-internally developed and purchased from vendors and can include both application software 
-(for example, user applications and database management systems) and system software (for 
-example, operating systems, drivers, utilities, programming software, and interfaces).
-stakeholders. Parties that are affected by the entity, such as shareholders, the communities in which 
-an entity operates, employees, customers, and suppliers. 
-subsequent events. Events or transactions that occur after the specified period addressed by the description but prior to the date of the practitioner’s report. Such events or transactions could have 
-a significant effect on the evaluation of whether the description is presented in accordance with 
-the description criteria or whether controls were effective to provide reasonable assurance that 
-the entity’s principal system objectives were achieved based on the applicable trust services criteria. 
-supplier. See vendor. 
-system. Refers to the infrastructure, software, procedures, and data that are designed, implemented, 
-and operated by people to achieve one or more of the entity’s specific business objectives (for 
-example, delivery of services or production of goods) in accordance with management-specified 
-requirements. 
-system boundaries. The specific aspects of an entity’s infrastructure, software, people, procedures, 
-and data necessary to perform a function (such as producing, manufacturing, or distributing a 
-product) or provide a service. When systems for multiple functions or services share aspects, infrastructure, software, people, procedures, and data, the systems will overlap, but the boundaries 
-of each system will differ. 
-system components. Refers to the individual elements of a system, which may be classified into the 
-following five categories: infrastructure, software, people, processes, and data. 
-system event. An occurrence that could lead to the loss of, or disruption to, operations, services, or 
-functions and could result in an entity’s failure to achieve its system objectives. Such an occurrence may arise from actual or attempted unauthorized access or use by internal or external parties and (a) impair (or potentially impair) the availability, integrity, or confidentiality of information or systems; (b) result in unauthorized disclosure or theft of information or other assets or 
-the destruction or corruption of data; or (c) cause damage to systems. Such occurrences also may 
-arise from the failure of the system to process data as designed or from the loss, corruption, or 
-destruction of data used by the system. 
-Page 74 
-system incident. A system event that requires action on the part of entity management to prevent or 
-reduce the impact of the event on the entity’s achievement of its system objectives. 
-system objectives. The entity’s objectives, established by entity management, that are embodied in 
-the product commitments it makes to customers, including producing or manufacturing a product 
-that meets product performance specifications and other production, manufacturing, or distribution specifications. The system objectives also include the requirements established for the functioning of the system to meet production, manufacturing, or distribution commitments. 
-system requirements. Specifications regarding how the system should function to (a) meet the entity’s commitments to customers and others (such as customers’ customers); (b) meet the entity’s 
-commitments to suppliers and business partners; (c) comply with relevant laws and regulations 
-and guidelines of industry groups, such as business or trade associations; and (d) achieve other 
-entity objectives that are relevant to the trust services category or categories addressed by the 
-description. Requirements are often specified in the entity’s system policies and procedures, system design documentation, contracts with customers, and government regulations. 
-System requirements may result from the entity’s commitments relating to security, availability, 
-processing integrity, confidentiality, or privacy. For example, a commitment to programmatically 
-enforce segregation of duties between data entry and data approval creates system requirements 
-regarding user access administration. 
-third party. An individual or organization other than the entity and its employees. Third parties may 
-be customers, suppliers, business partners, or others. 
-threat. Any circumstance or event, arising from human actions or natural events, that could potentially impair (a) the achievement of an entity’s objectives, its assets, or activities of its personnel, 
-or (b) other entities through unauthorized access, destruction, disclosure, modification of data, or 
-denial of service.
-trust services. A set of professional attestation and advisory services based on a core set of criteria 
-related to security, availability, processing integrity, confidentiality, or privacy. 
-unauthorized access. Access to information or system components that (a) has not been approved 
-by a person designated to do so by management and (b) compromises segregation of duties, confidentiality commitments, or otherwise increases risks to the information or system components 
-beyond the levels approved by management (that is, access is inappropriate). 
-vendor (or supplier). An individual or business (and its employees) that is engaged to provide 
-goods or services to the entity. Depending on the services provided (for example, if the vendor 
-operates certain controls on behalf of the entity that are necessary to achieve the entity’s objectives), it also might be a service provider. 
-vulnerability. Weakness in a component of a system, particularly information assets, system security procedures, internal controls, or implementation, that could be exploited or triggered by human action or natural events
+* **principal system objectives**. System objectives that relate to the trust services category or categories addressed by the examination and that could reasonably be expected to influence the relevant decisions of intended users. (See system objectives.) 
+* **privacy commitments**. Declarations made by management regarding the performance of a system 
+* **processing personal information**. Such commitments can be communicated in written agreements, standardized contracts, service-level agreements, or published statements (for example, a privacy practices statement). In addition, privacy commitments may be made on many different aspects of the service being provided. 
+* **privacy notice**. A written communication by entities that collect personal information, to the individuals about whom personal information is collected, about the entity’s (a) policies regarding the nature of the information that they will collect and how that information will be used, retained, disclosed, and disposed of or anonymized and (b) commitment to adhere to those policies. A privacy notice also includes information about such matters as the purpose of collecting the information, the choices that individuals have related to their personal information, the security of such information, and how individuals can contact the entity with inquiries, complaints,and disputes related to their personal information. When a user entity collects personal information from individuals, it typically provides a privacy notice to those individuals. 
+* **process or control framework**. A framework that contains a set of processes or controls, established by another party, that organizations are expected to implement in support of establishing an effective system of internal control. These frameworks are usually developed by an industry group, regulator, governmental entity, standard-setting body, or other organization (collectively referred to as sponsoring organizations) to obtain information from organizations with which they do business about their processes and controls. The most common types of process or control frameworks relate to security and privacy. 
+* **products**. Tangible or intangible goods manufactured or produced by an entity. Throughout this document, the term is used interchangeably with goods.
+* **report users**. Intended users of the practitioner’s report in accordance with AT-C section 205, Assertion-Based Examination Engagements. There may be a broad range of report users for a general-purpose report but only a limited number of specified parties for a report that is restricted in accordance with paragraph .64 of AT-C section 205.
+ *(All AT-C sections can be found in AICPA Professional Standards.) *
+* **residual risk**. The risk to the achievement of objectives that remains after management’s response has been designed and implemented. 
+* **retention**. A phase of the data life cycle that pertains to how long an entity stores information for future use or reference. 
+* **risk**. The possibility that an event will occur and adversely affect the achievement of objectives. 
+* **risk response**. The decision to accept, avoid, reduce, or share a risk. 
+* **security event**. An occurrence, arising from actual or attempted unauthorized access or use by internal or external parties, that impairs or could impair the availability, integrity, or confidentiality of information or systems: result in unauthorized disclosure or theft of information or other assets; or cause damage to systems. 
+* **security incident**. A security event that requires action on the part of an entity to protect information assets and resources. 
+* **senior management**. The CEO or equivalent organizational leader and senior management team. 
+* **service provider**. A supplier (such as a service organization) engaged to provide services to the entity. Service providers include outsourced service providers as well as suppliers that provide services not associated with business functions, such as janitorial, legal, and audit services. 
+* **SOC 2 examination**. An examination engagement to report on whether 
+    - (a) the description of the service organization’s system is in accordance with the description criteria, 
+    - (b) the controls were suitably designed to provide reasonable assurance that the service organization’s service commitments and system requirements were achieved based on the applicable trust services criteria, and 
+    - (c) in a type 2 report, the controls operated effectively to provide reasonable assurance that the service organization’s service commitments and system requirements were achieved based on the applicable trust services criteria. The SOC 2 examination is performed in accordance with the attestation standards and AICPA Guide SOC 2® Reporting on an Examination of Controls at a Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy. 
+* **SOC 3® engagement**. An examination engagement to report on the suitability of design and the operating effectiveness of an entity’s controls over a system relevant to one or more of the trust services categories. 
+* **SOC for Cybersecurity examination**. An examination engagement to report on whether 
+    - (a) management’s description of the entity’s cybersecurity risk management program is presented in accordance with the description criteria and 
+    - (b) the controls within that program were effective to achieve the entity’s cybersecurity objectives based on the control criteria. A SOC for Cybersecurity examination is performed in accordance with the attestation standards and AICPA Guide Reporting on an Entity's Cybersecurity Risk Management Program and Controls. 
+* **SOC for Supply Chain examination**. An examination engagement to report on whether (a) the description of the entity’s system is presented in accordance with the description criteria and (b) the controls stated in the description, which are necessary to provide reasonable assurance that the entity achieved its principal system objectives, were effective based on the applicable trust services criteria. Such an examination is based on guidance contained in AICPA Guide Reporting on an Examination of Controls Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy in a Production, Manufacturing, or Distribution System (SOC for Supply Chain guide). 
+* **software**. A collection of instructions that tell a computer how to operate. Software may be both internally developed and purchased from vendors and can include both application software (for example, user applications and database management systems) and system software (for example, operating systems, drivers, utilities, programming software, and interfaces).
+* **stakeholders**. Parties that are affected by the entity, such as shareholders, the communities in which an entity operates, employees, customers, and suppliers. 
+* **subsequent events**. Events or transactions that occur after the specified period addressed by the description but prior to the date of the practitioner’s report. Such events or transactions could have a significant effect on the evaluation of whether the description is presented in accordance with the description criteria or whether controls were effective to provide reasonable assurance that the entity’s principal system objectives were achieved based on the applicable trust services criteria. 
+* **supplier**. See vendor. 
+* **system**. Refers to the infrastructure, software, procedures, and data that are designed, implemented, and operated by people to achieve one or more of the entity’s specific business objectives (for example, delivery of services or production of goods) in accordance with management-specified requirements. 
+* **system boundaries**. The specific aspects of an entity’s infrastructure, software, people, procedures, and data necessary to perform a function (such as producing, manufacturing, or distributing a product) or provide a service. When systems for multiple functions or services share aspects, infrastructure, software, people, procedures, and data, the systems will overlap, but the boundaries of each system will differ. 
+* **system components**. Refers to the individual elements of a system, which may be classified into the following five categories: infrastructure, software, people, processes, and data. 
+* **system event**. An occurrence that could lead to the loss of, or disruption to, operations, services, or functions and could result in an entity’s failure to achieve its system objectives. Such an occurrence may arise from actual or attempted unauthorized access or use by internal or external parties and 
+    - (a) impair (or potentially impair) the availability, integrity, or confidentiality of information or systems; 
+    - (b) result in unauthorized disclosure or theft of information or other assets or the destruction or corruption of data; or 
+    - (c) cause damage to systems. Such occurrences also may arise from the failure of the system to process data as designed or from the loss, corruption, or destruction of data used by the system. 
+* **system incident**. A system event that requires action on the part of entity management to prevent or reduce the impact of the event on the entity’s achievement of its system objectives. 
+* **system objectives**. The entity’s objectives, established by entity management, that are embodied in the product commitments it makes to customers, including producing or manufacturing a product that meets product performance specifications and other production, manufacturing, or distribution specifications. The system objectives also include the requirements established for the functioning of the system to meet production, manufacturing, or distribution commitments. 
+* **system requirements**. Specifications regarding how the system should function to (a) meet the entity’s commitments to customers and others (such as customers’ customers); (b) meet the entity’s commitments to suppliers and business partners; (c) comply with relevant laws and regulations and guidelines of industry groups, such as business or trade associations; and (d) achieve other entity objectives that are relevant to the trust services category or categories addressed by the description. Requirements are often specified in the entity’s system policies and procedures, system design documentation, contracts with customers, and government regulations. 
+* **System requirements** may result from the entity’s commitments relating to security, availability, processing integrity, confidentiality, or privacy. For example, a commitment to programmatically enforce segregation of duties between data entry and data approval creates system requirements regarding user access administration. 
+* **third party**. An individual or organization other than the entity and its employees. Third parties may be customers, suppliers, business partners, or others. 
+* **threat**. Any circumstance or event, arising from human actions or natural events, that could potentially impair 
+     - (a) the achievement of an entity’s objectives, its assets, or activities of its personnel, or 
+     - (b) other entities through unauthorized access, destruction, disclosure, modification of data, or denial of service.
+* **trust services**. A set of professional attestation and advisory services based on a core set of criteria related to security, availability, processing integrity, confidentiality, or privacy. unauthorized access. Access to information or system components that 
+    - (a) has not been approved by a person designated to do so by management and 
+    - (b) compromises segregation of duties, confidentiality commitments, or otherwise increases risks to the information or system components beyond the levels approved by management (that is, access is inappropriate). 
+* **vendor (or supplier)**. An individual or business (and its employees) that is engaged to provide goods or services to the entity. Depending on the services provided (for example, if the vendor operates certain controls on behalf of the entity that are necessary to achieve the entity’s objectives), it also might be a service provider. 
+* **vulnerability**. Weakness in a component of a system, particularly information assets, system security procedures, internal controls, or implementation, that could be exploited or triggered by human action or natural events
