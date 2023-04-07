@@ -9,3 +9,7 @@ The playbook about how engineering organization prepare for SOC2 Compliance and 
 
 ### sample reports
 - https://github.githubassets.com/images/modules/site/security/2022-GitHub-SOC-3-Report.pdf
+
+### Knowledge Reference
+
+COSO Principle: https://www.coso.org/SitePages/Guidance.aspx
