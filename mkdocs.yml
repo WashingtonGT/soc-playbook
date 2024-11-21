@@ -85,7 +85,6 @@ nav:
         - P8.0  Monitoring and Enforcement:
             - P8.1: ptsc/p8-1.md
     - TSC Glossary: tsc-glossary.md                
-    - About: about.md
     
 copyright: Copyright &copy; 2023 Washington GT.
     
