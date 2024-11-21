@@ -85,10 +85,6 @@ nav:
         - P8.0  Monitoring and Enforcement:
             - P8.1: ptsc/p8-1.md
     - TSC Glossary: tsc-glossary.md                
-    - SOC 1 Report: about.md
-    - SOC 2 type 1 Report: about.md
-    - SOC 2 type 2 Report: about.md
-    - SOC 3 Report: about.md
     - About: about.md
     
 copyright: Copyright &copy; 2023 Washington GT.
